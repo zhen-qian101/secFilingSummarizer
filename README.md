@@ -6,6 +6,7 @@ The data pipeline is shown below.
 
 
 How to run the prototype?
+
 Step 1. create an environment and install dependencies with the command below:
 pip install -r requirements.txt
 
