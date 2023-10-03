@@ -2,7 +2,8 @@
 
 This is a practice on fetching public companies' annual reports (10-K form) via SEC Edgar API and make summarization according to different topics. 
 The data pipeline is shown below.
-<img width="320" alt="datapipeline" src="https://github.com/zhen-qian101/secFilingSummarizer/assets/90771509/a0fddb4b-bd90-472d-9fc9-18babba02a09">
+
+<img width="640" alt="datapipeline" src="https://github.com/zhen-qian101/secFilingSummarizer/assets/90771509/a0fddb4b-bd90-472d-9fc9-18babba02a09">
 
 
 How to run the prototype?
