@@ -18,4 +18,4 @@ flask --app app run --debug
 
 **Step 3**: Enter a ticker and click go. It will make summarization with respect to each question.
 
-<img width="320" alt="prototype" src="https://github.com/zhen-qian101/secFilingSummarizer/assets/90771509/921703a6-f702-4e06-8986-3016793c3682">
+<img width="640" alt="prototype" src="https://github.com/zhen-qian101/secFilingSummarizer/assets/90771509/921703a6-f702-4e06-8986-3016793c3682">
